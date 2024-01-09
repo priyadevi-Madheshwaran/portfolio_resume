@@ -153,6 +153,7 @@
       <label class="bluebaelabel"><img src="/priyaportfoliyo/image/right-arrow.png" style="height:25px;width:25px;">  BBvision(HRM)-Bluebase S/W Service PVT LYD</label><br><br><br><br>
 	<label class="bluebaelabel"><img src="/priyaportfoliyo/image/right-arrow.png" style="height:25px;width:25px;">  Leavemanagent System-IAL</label><br><br>
        <label class="bluebaelabel"><img src="/priyaportfoliyo/image/right-arrow.png" style="height:25px;width:25px;">  Google Events Management System-Bluebase (Nehagirish)</label><br><br>
+	    label class="bluebaelabel"><img src="/priyaportfoliyo/image/right-arrow.png" style="height:25px;width:25px;">  HRM(Laravel)-Bluebase</label><br><br>
 
     </div>
   </div>
